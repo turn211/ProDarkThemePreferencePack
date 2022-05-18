@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<package format="1">
-
-  <name>ProDark Theme Package</name>
-
-  <description>ProDark preference pack including a stylesheet and othe GUI colour information for a ProDark mode</description>
-
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>ProDarkThemePreferencePack</name>
   <version>1.0.0</version>
-
-  <license file="LICENSE">GPLV2</license>
-
-  <url type="repository">https://github.com/turn211/ProDarkThemePreferencePack</url>
-
+  <date>2022-05-17</date>
+  <description>ProDark preference pack including a stylesheet and othe GUI colour information for a complete ProDark experience</description>
+  <maintainer>turn211</maintainer>
+  <license file="LICENSE.txt">GPLV2</license>
+  <icon></icon>
   <content>
     <preferencepack>
-      <name>ProDark</name>
+      <name>ProDarkThemePreferencePack</name>
       <description>ProDark theme and colour scheme</decription>
+      <version>1.0.0</version>
       <tag>stylesheet</tag>
       <tag>dark</tag>
       <tag>professional</tag>
-      <file>ProDark.qss</file>
+      <file>ProDarkThemePack.qss</file>
     </preferencepack>
   </content>
-
+  <url type="repository" branch="main">https://github.com/turn211/ProDarkThemePreferencePack</url>
 </package>
