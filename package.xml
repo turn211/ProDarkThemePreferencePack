@@ -7,6 +7,8 @@
   <maintainer>turn211</maintainer>
   <license file="LICENSE">GPLV2</license>
   <icon></icon>
+  <url type="repository" branch="main">https://github.com/turn211/ProDarkThemePreferencePack</url>
+  
   <content>
     <preferencepack>
       <name>ProDarkThemePack</name>
@@ -18,5 +20,5 @@
       <file>ProDarkStylesheet.qss</file>
     </preferencepack>
   </content>
-  <url type="repository" branch="main">https://github.com/turn211/ProDarkThemePreferencePack</url>
+  
 </package>
