@@ -1,6 +1,6 @@
 # ProDarkThemePreferencePack
+
 ProDark Theme Preference Pack for FreeCAD
-![Colors](/resources/icons/Behave-Dark_200x200.png)
 
 **Screenshots pending**
 
