@@ -1,5 +1,5 @@
 # ProDarkThemePreferencePack
-
+![Colours](resources/icons/ProDark_200x200.png)
 ProDark Theme Preference Pack for [FreeCAD](https://www.freecadweb.org)
 
 **Screenshots pending**
