@@ -6,13 +6,12 @@
   <description>ProDark preference pack including a stylesheet and othe GUI colour information for a complete ProDark experience</description>
   <maintainer>turn211</maintainer>
   <license file="LICENSE">GPLV2</license>
-  <icon></icon>
   <url type="repository" branch="main">https://github.com/turn211/ProDarkThemePreferencePack</url>
   
   <content>
     <preferencepack>
       <name>ProDarkThemePack</name>
-      <description>ProDark stylesheet and Colour scheme</decription>
+      <description>ProDark stylesheet and Colour scheme</description>
       <version>1.0.0</version>
       <tag>stylesheet</tag>
       <tag>dark</tag>
