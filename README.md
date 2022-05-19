@@ -1,6 +1,6 @@
 # ProDarkThemePreferencePack
 
-ProDark Theme Preference Pack for FreeCAD
+ProDark Theme Preference Pack for [FreeCAD](https://www.freecadweb.org)
 
 **Screenshots pending**
 
