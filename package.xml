@@ -5,7 +5,7 @@
   <date>2022-05-17</date>
   <description>ProDark preference pack including a stylesheet and othe GUI colour information for a complete ProDark experience</description>
   <maintainer>turn211</maintainer>
-  <license file="LICENSE">GPLV2</license>
+  <license file="LICENSE">GPL-2.0-or-later</license>
   <url type="repository" branch="main">https://github.com/turn211/ProDarkThemePreferencePack</url>
   <icon>resources/icons/ProDark.svg</icon>
   
